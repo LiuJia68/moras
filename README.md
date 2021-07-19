@@ -5,6 +5,10 @@ Many existing deep learning models are vulnerable to adversarial examples that a
 Using a virtual python environment is encouraged. For example, with Anaconda, you could run `conda create -n moras python==3.7.3 pip` first.
 * Supported python versions: 3.7
 * Architecture plotting depends on the `graphviz` package, make sure `graphiz` is installed
+## Run MORAS
+```
+  cd CIFAR10\search python rdm_evolution_search_main.py
+```
 ## Citations
 If you find the code useful for your research, please consider citing our works.
 ```
