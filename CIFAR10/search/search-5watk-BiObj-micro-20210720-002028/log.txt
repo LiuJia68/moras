@@ -1,1 +1,0 @@
-2021-07-20 00:20:28,674 args = Namespace(init_channels=24, layers=11, n_blocks=7, n_cells=2, n_gens=300, n_nodes=10, n_offspring=30, n_ops=9, pop_size=30, save='search-5watk-BiObj-micro-20210720-002028', search_space='micro', seed=0)
