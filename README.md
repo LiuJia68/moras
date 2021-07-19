@@ -21,4 +21,4 @@ author = {Jia Liu and Yaochu Jin}
 }
 ```
 ## References
-* **NSGANET**
+* **NSGANET** Zhichao Lu, Ian Whalen, Yashesh Dhebar, Kalyanmoy Deb, Erik Goodman, Wolfgang Banzhaf, Vishnu Naresh Boddeti. "NSGA-Net: Neural Architecture Search using Multi-Objective Genetic Algorithm". In Proceedings of the Genetic and Evolutionary Computation Conference, 2019
